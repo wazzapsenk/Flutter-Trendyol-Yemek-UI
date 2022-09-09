@@ -1,6 +1,13 @@
-# trendyol_yemek_ui
+# Flutter - Trendyol Yemek UI Design
 
-A new Flutter project.
+This project made for UI Design on Flutter.
+
+## Screenshots 
+
+<img src="https://github.com/wazzapsenk/Flutter-Trendyol-Yemek-UI/blob/master/screen1.png" width="33%"></img> <img src="https://github.com/wazzapsenk/Flutter-Trendyol-Yemek-UI/blob/master/screen2.png" width="33%"></img> <img src="https://github.com/wazzapsenk/Flutter-Trendyol-Yemek-UI/blob/master/screen3.png" width="33%"></img>
+
+
+
 
 ## Getting Started
 
